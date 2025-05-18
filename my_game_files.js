@@ -1,0 +1,1 @@
+var gamefiles = ['coin.ags', 'acsetup.cfg'];
